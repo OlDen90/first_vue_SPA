@@ -49,4 +49,5 @@ module.exports = defineConfig({
       ],
     },
   },
+  publicPath: '/first_vue_SPA/'
 });
